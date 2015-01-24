@@ -1,0 +1,9 @@
+# view AndroidManifest.xml #generated:40
+-keep class com.example.gmailapptest.LabelDetailsActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:27
+-keep class com.example.gmailapptest.MainActivity { <init>(...); }
+
+# view res/layout/activity_main.xml #generated:23
+-keep class com.example.gmailapptest.contentprovidertest.LabelListFragment { <init>(...); }
+
